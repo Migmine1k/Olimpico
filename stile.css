@@ -1,0 +1,13 @@
+#background {
+font-family: "Comic Sans Ms";
+background-image: url(fundo.png);
+background-position: center ;
+background-size: cover ;
+}
+canvas{
+border-width: 10px;
+background-color:white;
+border-style: ridge;
+
+
+}
